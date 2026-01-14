@@ -101,12 +101,11 @@ Key properties:
 All results are reproducible using the lab harness.
 
 ---
+ ## Lab Documentation
 
-## Lab Documentation
-
-- [Complete Lab Build & Walkthrough](docs/flea_flicker_lab_guide.md)
-- [Technical Implementation Notebook](docs/flea_flicker_tech_notebook.md)
-- [Hardware Procurement & Setup Guide](docs/flea_flicker_hardware_guide.md)
+- [Complete Lab Build & Walkthrough](flea_flicker_lab_guide.md)
+- [Technical Implementation Notebook](flea_flicker_tech_notebook.md)
+- [Hardware Procurement & Setup Guide](flea_flicker_hardware_guide.md)
 
 Each document is written to be reproducible and implementation-forward.
 
